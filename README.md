@@ -2,7 +2,7 @@
 
 > The latest Gemini models are available! Try out [Gemini 3.6 Flash](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_3_6_flash.ipynb) and [Gemini 3.5 Flash-Lite](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_3_5_flash_lite.ipynb).
 >
-> **[Gemini Enterprise Agent Platform](https://docs.cloud.google.com/gemini-enterprise-agent-platform)**, the latest evolution of Vertex AI, has been released!
+> **[Gemini Enterprise Agent Platform](https://docs.cloud.google.com/gemini-enterprise-agent-platform)**, the latest evolution of Agent Platform, has been released!
 >
 > Check out the [`Google-Cloud-AI/agent-platform`](https://goo.gle/agent-platform-github) repository for a curated list of assets for agent building on Google Cloud.
 
@@ -93,17 +93,17 @@ This repository contains notebooks, code samples, sample apps, and other resourc
 - [Gemini Cookbook](https://github.com/google-gemini/cookbook/)
 - [genai-factory](https://github.com/googleCloudPlatform/genai-factory) - A collection of end-to-end infrastructure blueprints to deploy generative AI infrastructures in GCP, using IaC and following security best-practices.
 - [Google Cloud Applied AI Engineering](https://github.com/GoogleCloudPlatform/applied-ai-engineering-samples)
-- [Vertex AI GenMedia Creative Studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - Experience Google's generative media foundational models + custom workflows.
+- [Agent Platform GenMedia Creative Studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - Experience Google's generative media foundational models + custom workflows.
 - [MCP Servers for GenMedia](https://goo.gle/vertex-genmedia-mcp) - Empower your agents with generative media tools.
 - [Generative AI for Marketing using Google Cloud](https://github.com/GoogleCloudPlatform/genai-for-marketing)
 - [Generative AI for Developer Productivity](https://github.com/GoogleCloudPlatform/genai-for-developers)
-- Vertex AI Core
-  - [Vertex AI Samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)
-  - [MLOps with Vertex AI](https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai)
-  - [Developing NLP solutions with T5X and Vertex AI](https://github.com/GoogleCloudPlatform/t5x-on-vertex-ai)
-  - [AlphaFold batch inference with Vertex AI Pipelines](https://github.com/GoogleCloudPlatform/vertex-ai-alphafold-inference-pipeline)
-  - [Serving Spark ML models using Vertex AI](https://github.com/GoogleCloudPlatform/vertex-ai-spark-ml-serving)
-  - [Sensitive Data Protection (Cloud DLP) for Vertex AI Generative Models (PaLM2)](https://github.com/GoogleCloudPlatform/Sensitive-Data-Protection-for-Vertex-AI-PaLM2)
+- Agent Platform Core
+  - [Agent Platform Samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)
+  - [MLOps with Agent Platform](https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai)
+  - [Developing NLP solutions with T5X and Agent Platform](https://github.com/GoogleCloudPlatform/t5x-on-vertex-ai)
+  - [AlphaFold batch inference with Agent Platform Pipelines](https://github.com/GoogleCloudPlatform/vertex-ai-alphafold-inference-pipeline)
+  - [Serving Spark ML models using Agent Platform](https://github.com/GoogleCloudPlatform/vertex-ai-spark-ml-serving)
+  - [Sensitive Data Protection (Cloud DLP) for Agent Platform Generative Models (PaLM2)](https://github.com/GoogleCloudPlatform/Sensitive-Data-Protection-for-Vertex-AI-PaLM2)
 - Conversational AI
   - [Contact Center AI Samples](https://github.com/GoogleCloudPlatform/contact-center-ai-samples)
   - [Reimagining Customer Experience 360](https://github.com/GoogleCloudPlatform/dialogflow-ccai-omnichannel)
@@ -139,3 +139,4 @@ Please use the [issues page](https://github.com/GoogleCloudPlatform/generative-a
 
 This repository itself is not an officially supported Google product. The code in this repository is for demonstrative purposes only.
 # sdd-agy-bigquery-dashboard
+# Trigger AI Review
